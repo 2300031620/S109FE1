@@ -53,7 +53,7 @@ const HomePage = () => {
           ) : (
             <>
               <Link to="/login"><button>LoginPEDDAANNA</button></Link>
-              <Link to="/signup"><button>Sign Up</button></Link>
+              <Link to="/signup"><button>Sign Up BUNNY</button></Link>
             </>
           )}
         </div>
