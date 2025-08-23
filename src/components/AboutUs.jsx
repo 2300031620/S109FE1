@@ -23,21 +23,21 @@ const AboutUs = () => {
         <Link to="/mobiles">
         <div className="about-item">
           <img src="mobiles.jpeg" alt="Mobiles" />
-          <h3>Mobiles</h3>
+          <h3>pedha anna</h3>
           <p>Latest smartphones from top brands at unbeatable prices.</p>
         </div>
         </Link>
         <Link to="/laptops">
         <div className="about-item">
           <img src="laptops.jpeg" alt="Laptops" />
-          <h3>Laptops</h3>
+          <h3>oh pedha anna</h3>
           <p>Powerful laptops for professionals, students, and gamers.</p>
         </div>
         </Link>
         <Link to="/pendrives">
         <div className="about-item">
           <img src="accessories.jpg" alt="Accessories" />
-          <h3>Accessories</h3>
+          <h3>ma pedda anna</h3>
           <p>Find the best accessories like pendrives, keyboards, and more.</p>
         </div>
         </Link>
